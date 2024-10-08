@@ -58,6 +58,18 @@
       ]
     },
     {
+      "group": "Readmes",
+      "pages": [
+        "essentials/sub-essential/readmenow",
+        "essentials/another sub-essential/also readme",
+        "development",
+        {
+            "group": "Nested Reference Pages",
+            "pages": ["essentials/sub-essential/readmenow"]
+        }
+      ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
